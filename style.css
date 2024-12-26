@@ -1,0 +1,26 @@
+.nourin{
+   min-height: 300px;
+}
+
+.navbar {
+   background: linear-gradient(to right, #d17ad1, #53b979, #f766b3);
+ }
+ .navbar-brand {
+   display: flex;
+   align-items: center;
+ }
+ .subtitle {
+   font-size: 12px;
+   color: #fff;
+   margin-top: -5px;
+ }
+ .nav-link {
+   color: #fff !important;
+ }
+ .nav-link:hover {
+   color: #f0f0f0 !important;
+ }
+ .login-icon::before {
+   content: '➡';
+   margin-right: 5px;
+  }
